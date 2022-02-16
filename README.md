@@ -4,6 +4,7 @@ This python script creates a Calculator GUI application.
 ### Examples
 ![Example1](example.png)
 ![Example2](example.gif)
+![Example](example3.gif)
 
 ### Running the script
 ```commandline

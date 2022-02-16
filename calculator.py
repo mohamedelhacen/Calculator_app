@@ -25,11 +25,11 @@ def calc(entry):
 def popupmsg():
     popup = tk.Tk()
     popup.resizable(0, 0)
-    popup.geometry("120x100")
+    popup.geometry("150x80")
     popup.title("Alert")
-    label = tk.Label(popup, text="Cannot divide by 0! \n Enter valid values")
-    label.pack(side="top", fill="x", pady=10)
-    p1 = tk.Button(popup, text="OK", bg="#DDDDDD", command=popup.destroy())
+    label = tk.Label(popup, text="Cannot divide by 0!")
+    label.pack(side="top", fill="x", pady=5, padx=5)
+    p1 = tk.Button(popup, text="OK", bg="#DDDDDD", command=popup.destroy)
     p1.pack()
 
 def calculator():
