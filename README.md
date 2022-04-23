@@ -5,6 +5,7 @@ This python script creates a Calculator GUI application.
 ![Example1](example.png)
 ![Example2](example.gif)
 ![Example](example3.gif)
+![Invalid](invalid_syntax.gif)
 
 ### Running the script
 ```commandline
